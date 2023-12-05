@@ -12,9 +12,11 @@
 - **README.md File and Original Dataset File:**
   - **README.md** - This readme file.  
   - **/RESOURCES/Crime_Data_from_2020_to_Present.csv** - The original dataset that is used in this project before any ETL work was performed.
+
 - **ETL Files:**
   - **/ETL/LA_Crime_Data.ipynb** - This jupyter notebook takes the data from "/Resources/credit_data.csv" and performs some cleanup (ETL) work of the data and then exports it to a new CSV file located at "/output_data/ETL/csv/ETL_credit_data.csv".
-  - **/ETL/LA_Crime_Data_Colab.ipynb** - This jupyter notebook does the same as "/ETL/LA_Crime_Data.ipynb" except this version can be ran in the cloud using Google Colab  
+  - **/ETL/LA_Crime_Data_Colab.ipynb** - This jupyter notebook does the same as "/ETL/LA_Crime_Data.ipynb" except this version can be ran in the cloud using Google Colab
+
  **Output Data Files:**
   - **/OUTPUT_DATA/ETL/CSV/ETL_Crime_Data.csv** - This CSV file is what is created after ETL work is performed on the original data using "/ETL/LA_Crime_Data.ipynb"
 
