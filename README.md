@@ -10,7 +10,7 @@
 
 ## **Files:**
 - **README.md File and Original Dataset File:**
-  - **README.md** - This readme file.
+  - **README.md** - This readme file.  
   **Dataset Files:**
   - **/RESOURCES/Crime_Data_from_2020_to_Present.csv** - The original dataset that is used in this project before any ETL work was performed.
 - **ETL Files:**
